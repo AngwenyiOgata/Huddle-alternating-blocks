@@ -24,11 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop screengot](./destop.jpeg)
+![desktop screengot](./desktop.jpeg)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://angwenyiogata.github.io/EasyBank/#about)
 
 ## My process
 
